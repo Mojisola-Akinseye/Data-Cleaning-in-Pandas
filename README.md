@@ -3,4 +3,4 @@ I will be working on this badly structured sales data. This dataset contains the
 
 - Pandas: An open source data manipulation and analysis library in python. It is widely used for tasks like data cleaning, transformation , and analysis.
 
-The steps for this data cleaning process are explained in the sales logistics notebook.
+The steps for this data cleaning process are explained in the sales logistics jupyter notebook.
